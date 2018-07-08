@@ -54,4 +54,4 @@ Whether the outlet is just a grocery store or some sort of supermarket
 
 Item_Outlet_Sales
 
-Sales of the product in the particulat store. This is the outcome variable to be predicted.
+Sales of the product in the particular store. This is the outcome variable to be predicted.
