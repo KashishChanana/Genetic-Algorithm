@@ -1,6 +1,7 @@
 # Genetic-Algorithm
 
 Outline of the Basic Genetic Algorithm
+
 [Start] Generate random population of n chromosomes (suitable solutions for the problem)
 [Fitness] Evaluate the fitness f(x) of each chromosome x in the population
 [New population] Create a new population by repeating following steps until the new population is complete
